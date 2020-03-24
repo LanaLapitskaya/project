@@ -1,1 +1,1 @@
-# IBA-project
+# Intonation recognition project
